@@ -1,6 +1,7 @@
 <h1 align='center'> File Zipper</h1>
 <h3 align='center'>File compressor/decompressor, using  huffman algorithm implementation.</h3>
-<img center='align' src='https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1550/https://itpack.be/wp-content/uploads/2019/06/Naamloos.png'/>
+<img center='align' src='https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1550/https://itpack.be/wp-content/uploads/2019/06/Naamloos.png](https://play-lh.googleusercontent.com/Jq690GUVRm32ellbrLordoNHEpqVNDkkkusj--ZjwJrPTK5cfaDrWL6NPMTWN2S-Ww'/>
+<!-- https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1550/https://itpack.be/wp-content/uploads/2019/06/Naamloos.png -->
 
 
 This team (me and [@oswidan97](https://github.com/oswidan97)) work was developed as assignment for Analysis & Design of Algorithms Course Fall 2018 offering at CCE department, Faculty of Engineering, Alexandria University
