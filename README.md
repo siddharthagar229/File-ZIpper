@@ -1,4 +1,4 @@
-<h1 align='center'> Huffman Zipper</h1>
+<h1 align='center'> File Zipper</h1>
 <h3 align='center'> Yet another file compressor/decompressor, using a C++ huffman-coding algorithm implementation.</h3>
 <img center='align' src='https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1550/https://itpack.be/wp-content/uploads/2019/06/Naamloos.png'/>
 
